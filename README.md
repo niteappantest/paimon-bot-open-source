@@ -95,7 +95,7 @@ If you want to unlo
 # Thanks to
 * [`Adiwajshing`](https://github.com/adiwajshing/baileys)
 * [`YogaSakti/imageToSticker`](https://github.com/YogaSakti/imageToSticker)
-* [`Slavian`](https://github.com/SlavyanDesu/BocchiBot
+* [`Slavian`](https://github.com/SlavyanDesu/BocchiBot)
 * [`AlvioAdjiJanuar`](https://github.com/AlvioAdjiJanuar)
 * [`VideFrelan`](https://github.com/VideFrelan)
 * [`Hexagon`](https://github.com/hexagonz)
