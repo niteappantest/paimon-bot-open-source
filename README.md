@@ -7,7 +7,7 @@
 
 <h3 align="center">Made with ❤️ by</h3>
 <p align="center">
-  <a href="https://github.com/hardiantojek93"><img src="https://avatars3.githubusercontent.com/u/28254882?s=400&u=25765902db0b709938966cf4127ac11af5eafb5d&v=4" height="128" width="128" /></a>
+  <a href="https://github.com/hardiantojek93"><img src="https://i.ibb.co/k6jNjdY/5f4e87e3d07e.jpg" height="128" width="128" /></a>
 </p>
 
 <p align="center">
