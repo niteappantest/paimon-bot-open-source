@@ -89,7 +89,7 @@ If you want to unlo
 * [`VideFrelan`](https://github.com/VideFrelan)
 * [`Hexagon`](https://github.com/hexagonz)
 * [`LolHuman`](https://github.com/Lol-Human)
-* [`Aqul`](https://github.com/zenn08)
+* [`Aqul`](https://github.com/zennn08)
 * [`hardiantojek93`](https://github.com/hardiantojek93)
 
 # License Readme.md
