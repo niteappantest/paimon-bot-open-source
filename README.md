@@ -24,8 +24,9 @@ pm2 start anto.js
 
 or
 
-npm i install`
-npm start`
+npm install
+
+npm start
 node anto.js
 ```
 #SPECIAL THANKS TO
