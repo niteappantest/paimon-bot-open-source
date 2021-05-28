@@ -5,12 +5,16 @@
 
 
 <div align="center">
-<img src="https://i.ibb.co/k6jNjdY/5f4e87e3d07e.jpg" alt="Paimon-Bot" width="500" />
-# ** Template Md Ori By Slavian **
-# **Paimon Bot**
-> Maaf Sekedar Copast
-> Fitur banyak bug :(
-> Jarang Buatan Saya
+<img src="https://i.ibb.co/k6jNjdY/5f4e87e3d07e.jpg" alt="Paimon-Bot" width="500"/p>
+
+## Paimon Bot (Sekedar Copast Jarang Buatan Sendiri)
+## template Md By Slavian 
+
+> 
+
+> 
+
+> 
 <h3 align="center">Made with ❤️ by</h3>
 <p align="center">
   <a href="https://github.com/hardiantojek93"><img src="https://i.ibb.co/k6jNjdY/5f4e87e3d07e.jpg" height="128" width="128" /></a>
