@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images5.alphacoders.com/911/911614.png" alt="BocchiBot" width="500" />
+<img src="https://i.ibb.co/k6jNjdY/5f4e87e3d07e.jpg" alt="BocchiBot" width="500" />
 
 # **Paimon Bot**
 >
