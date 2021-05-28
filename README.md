@@ -1,10 +1,16 @@
+
+
+
+
+
+
 <div align="center">
-<img src="https://i.ibb.co/k6jNjdY/5f4e87e3d07e.jpg" alt="BocchiBot" width="500" />
-
+<img src="https://i.ibb.co/k6jNjdY/5f4e87e3d07e.jpg" alt="Paimon-Bot" width="500" />
+# ** Template Md Ori By Slavian **
 # **Paimon Bot**
->
->
-
+> Maaf Sekedar Copast
+> Fitur banyak bug :(
+> Jarang Buatan Saya
 <h3 align="center">Made with ❤️ by</h3>
 <p align="center">
   <a href="https://github.com/hardiantojek93"><img src="https://i.ibb.co/k6jNjdY/5f4e87e3d07e.jpg" height="128" width="128" /></a>
@@ -85,6 +91,7 @@ If you want to unlo
 # Thanks to
 * [`Adiwajshing`](https://github.com/adiwajshing/baileys)
 * [`YogaSakti/imageToSticker`](https://github.com/YogaSakti/imageToSticker)
+* [`Slavian`](https://github.com/SlavyanDesu/BocchiBot
 * [`AlvioAdjiJanuar`](https://github.com/AlvioAdjiJanuar)
 * [`VideFrelan`](https://github.com/VideFrelan)
 * [`Hexagon`](https://github.com/hexagonz)
